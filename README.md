@@ -6,4 +6,4 @@ The aim of this project is to use data obtained from the sensors fo a smartwatch
 
 The first part of the project included researching the topic in detail, and covering the theoretical part before the practical one.
 
-This is the project which is currently in progress, and this repository will be updated accordingly, as a reflection of my work. 
+This project is currently in progress, and the repository will be updated accordingly, as a reflection of my work. 
