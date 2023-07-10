@@ -1,5 +1,7 @@
 # Digital-signal-processing-in-a-smartwatch
 
+![image](https://github.com/AHromic1/Digital-signal-processing-in-a-smartwatch/assets/115954313/d31d70a8-a6a9-4cdf-8461-5ae6c9401147)
+
 This repository is created in order to demonstrate the results of my research within the course Digital Signal Processing. 
 
 The aim of this project is to use data obtained from the sensors fo a smartwatch in order to draw conclusions about the user's activities by applying the appropriate machine learning algorithms. 
