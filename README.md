@@ -10,3 +10,4 @@ And then, for the good part, I created, trained and tested the data from a smart
 
 Having analysed the dataset, I was then able to apply different classificators and compare the results using confusion matrices. I used Logistic Regression, Support Vector Machine, Linear Discriminant Analysis, Random Forest Algorithm and Decision Tree Algorithm. After the comparison of the results, I have concluded that Linear Discriminant Analysis gave the best results (accuracy of 0.9643705463182898). 
 
+![image](https://github.com/AHromic1/Digital-signal-processing-in-a-smartwatch/assets/115954313/7d42b622-caef-4220-a1b5-44235b0024ca)
